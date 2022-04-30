@@ -1,0 +1,14 @@
+com/virtualspirit/ReactNativeFlipper.java
+ com.virtualspirit.ReactNativeFlipper
+ com.virtualspirit.ReactNativeFlipper$1
+ com.virtualspirit.ReactNativeFlipper$2
+ com.virtualspirit.ReactNativeFlipper$2$1
+com/virtualspirit/MainActivity.java
+ com.virtualspirit.MainActivity
+com/virtualspirit/BuildConfig.java
+ com.virtualspirit.BuildConfig
+com/virtualspirit/MainApplication.java
+ com.virtualspirit.MainApplication
+ com.virtualspirit.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

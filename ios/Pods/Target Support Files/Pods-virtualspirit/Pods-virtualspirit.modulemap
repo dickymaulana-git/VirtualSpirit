@@ -1,0 +1,6 @@
+module Pods_virtualspirit {
+  umbrella header "Pods-virtualspirit-umbrella.h"
+
+  export *
+  module * { export * }
+}
